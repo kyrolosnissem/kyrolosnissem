@@ -1,57 +1,152 @@
-# Hey, [Kyrolos Nissem!](https://github.com/kyrolosnissem) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Awesome Matrix Code' align='right' width="300"/>
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="300" height="300"/>
+```
+██╗  ██╗██╗   ██╗██████╗  ██████╗ ██╗      ██████╗ ███████╗
+██║ ██╔╝╚██╗ ██╔╝██╔══██╗██╔═══██╗██║     ██╔═══██╗██╔════╝
+█████╔╝  ╚████╔╝ ██████╔╝██║   ██║██║     ██║   ██║███████╗
+██╔═██╗   ╚██╔╝  ██╔══██╗██║   ██║██║     ██║   ██║╚════██║
+██║  ██╗   ██║   ██║  ██║╚██████╔╝███████╗╚██████╔╝███████║
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A5;Python+Developer+%F0%9F%90%8D;ETL+Pipeline+Builder+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+into+Gold+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
-### I graduated from the Faculty of Engineering, Zagazig University, majoring in Mechanical Power Engineering. I am skilled in Python and Data Engineering, with hands-on experience in data cleaning, data transformation, data analysis using Pandas, working with SQL databases, and building ETL pipelines for efficient data processing.
+[![GitHub followers](https://img.shields.io/github/followers/kyrolosnissem?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github)](https://github.com/kyrolosnissem)
+![Profile Views](https://komarev.com/ghpvc/?username=kyrolosnissem&style=for-the-badge&color=00D4FF&labelColor=0D1117)
 
-<h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> 
-  Languages and Tools
-</h1>
-
-<div>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-</p>
 </div>
 
-## Current Work
+---
 
-- 💻 Graduated from **Faculty of Engineering, Zagazig University**, majoring in Mechanical Power Engineering
-- 🐍 Passionate about Python and Data Engineering
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+## `> whoami`
 
-<div align="center"> 
+```python
+class KyrolosNissem:
+    
+    def __init__(self):
+        self.name        = "Kyrolos Nissem"
+        self.role        = "Data Engineer"
+        self.university  = "Zagazig University"
+        self.major       = "Mechanical Power Engineering"
+        self.location    = "Egypt 🇪🇬"
+        self.passion     = ["Data", "Python", "ETL Pipelines"]
+    
+    def current_focus(self):
+        return [
+            "🔥 Building scalable ETL pipelines",
+            "📊 Deep-diving into Data Engineering",
+            "🤖 Exploring ML & AI workflows",
+            "⚡ Mastering SQL & data transformation"
+        ]
+    
+    def fun_fact(self):
+        return "I turn messy data into clean insights 🧹✨"
+
+me = KyrolosNissem()
+print(me.fun_fact())
+```
+
+<br clear="both"/>
+
+---
+
+## `> skills --list`
+
+<div align="center">
+
+### 🐍 Languages & Core Libraries
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=00D4FF)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+### 🗄️ Databases & Data Warehouses
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D4FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+### 🔄 Data Engineering & ETL
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=FF694B)
+
+### 📊 Data Analysis & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=79C0FF)
+
+### ☁️ Cloud & DevOps
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+---
+
+## `> stats --realtime`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyrolosnissem&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363D&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrolosnissem&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyrolosnissem&theme=github-dark-blue&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border=30363D" />
+</div>
+
+---
+
+## `> expertise --map`
+
+```
+Data Engineering Pipeline:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [RAW DATA] ──▶ [EXTRACT] ──▶ [TRANSFORM] ──▶ [LOAD] ──▶ [INSIGHTS]
+      │               │               │              │           │
+   CSV/JSON        Python           Pandas         SQL       Dashboards
+   APIs/DBs        Scripts         Cleaning     Databases    Reports
+   Web Scrape      ETL            Validation   Data Lakes   Analytics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Python      ████████████████████  100%
+  SQL         ████████████████░░░░   80%
+  Pandas      ████████████████████   95%
+  ETL Design  ███████████████░░░░░   75%
+  Data Clean  ████████████████████   98%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Let's+Connect)](www.linkedin.com/in/kyrolos-nissem)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Drop+a+Mail)](mailto:kyrolosnissem3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Follow+Me)](https://github.com/kyrolosnissem)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Without data, you're just another person with an     ║
+║    opinion." — W. Edwards Deming                        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&reversal=false" />
+
+</div>
