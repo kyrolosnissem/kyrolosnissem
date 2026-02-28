@@ -88,17 +88,6 @@ print(me.fun_fact())
 </div>
 ---
 
-## `> stats --realtime`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyrolosnissem&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363D&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrolosnissem&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyrolosnissem&theme=github-dark-blue&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border=30363D" />
-</div>
-
 ---
 
 ## `> expertise --map`
